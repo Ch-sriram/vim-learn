@@ -6,6 +6,7 @@
 
 - [About `vim`](#about-vim)
 - [Why use `vim`?](#why-use-vim)
+- [Main Modes in `vim`](#main-modes-in-vim)
 
 ### About `vim`
 
@@ -29,5 +30,13 @@
   - To *delete a word* -> `dw`
   - To *change the text of a word* -> `cw`
   - To *delete everything inside a quotation mark (')* -> `di'` (means: **delete inside quotation mark '**)
+
+[:top:](#table-of-contents)
+
+### Main Modes in `vim`
+
+- Normal/Command Mode `Esc`
+- Insert Mode `i`
+- Line Mode (`:`)
 
 [:top:](#table-of-contents)
