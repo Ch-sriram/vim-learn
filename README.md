@@ -2,14 +2,19 @@
 
 - This repository contains my learnings and material from a Udemy course taught by [Jason Cannon](https://www.linkedin.com/in/jasonacannon/). The course can be found [here](https://www.udemy.com/course/vim-commands-cheat-sheet/).
 
-## About `vim`
+## Table of Contents
+
+- [About `vim`](#about-vim)
+- [Why use `vim`?](#why-use-vim)
+
+### About `vim`
 
 - `vim` is an advanced text editor.
 - `vim` = `vi` + `im`proved
 - `vi` is short for *visual*
 - In most modern systems, `vim` has replaced `vi`.
 
-## Why use `vim`?
+### Why use `vim`?
 
 - Ubiquitous &mdash; installed in almost all of the systems, if not `vim`, at least `vi` exists.
 - Extremely Powerful &mdash; `vim` is even more powerful than `nano`.
@@ -24,3 +29,5 @@
   - To *delete a word* -> `dw`
   - To *change the text of a word* -> `cw`
   - To *delete everything inside a quotation mark (')* -> `di'` (means: **delete inside quotation mark '**)
+
+[:top:](#table-of-contents)
