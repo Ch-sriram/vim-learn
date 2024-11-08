@@ -37,6 +37,19 @@
 
 - Normal/Command Mode `Esc`
 - Insert Mode `i`
-- Line Mode (`:`)
+- Line/CommandLine Mode (`:`)
 
 [:top:](#table-of-contents)
+
+### Creating a file & editing using `vim`
+
+- ```sh
+  vim abc123
+  ```
+
+  `vim` will open in normal mode.
+
+- Go to insert mode by pressing the `i` key, and type in some text.
+- Go to normal mode by pressing the `Esc` key.
+- Go to line mode by pressing the `:` key, and to save and quit the from `vim`, type in `wq`.
+  - full command is: `:wq` (to force-quite, use a bang at the end `!`, then the command will be `:wq!`)
