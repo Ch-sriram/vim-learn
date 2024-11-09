@@ -1,12 +1,13 @@
-# Vim &mdash; My Learning & Resources
+# Vim &mdash; My Learning & Resources <!-- omit in toc -->
 
 - This repository contains my learnings and material from a Udemy course taught by [Jason Cannon](https://www.linkedin.com/in/jasonacannon/). The course can be found [here](https://www.udemy.com/course/vim-commands-cheat-sheet/).
 
-## Table of Contents
+## Table of Contents <!-- omit in toc -->
 
 - [About `vim`](#about-vim)
 - [Why use `vim`?](#why-use-vim)
 - [Main Modes in `vim`](#main-modes-in-vim)
+- [Creating a file \& editing using `vim`](#creating-a-file--editing-using-vim)
 
 ### About `vim`
 
@@ -43,7 +44,9 @@
 
 ### Creating a file & editing using `vim`
 
-- ```sh
+- Create a file using `vim`
+
+  ```sh
   vim abc123
   ```
 
